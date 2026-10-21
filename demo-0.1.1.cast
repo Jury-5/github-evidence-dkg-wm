@@ -1,0 +1,5 @@
+{"version": 2, "width": 110, "height": 24, "timestamp": 1792555046, "title": "Synthetic GitHub evidence to real local DKG 10.0.23; mock chain; importer 0.1.1"}
+[0.1002, "o", "Synthetic fixture prepared; no GitHub request\r\n"]
+[0.1478, "o", "Caller verified; named WM draft written and exact read-back verified\r\n"]
+[0.1499, "o", "Duplicate journal refused; no second mutation\r\n"]
+[0.15, "o", "{\"status\": \"verified\", \"quadCount\": 8, \"chainValidation\": \"not performed\", \"shareOrPublish\": false, \"rewardClaimed\": false}\r\n"]

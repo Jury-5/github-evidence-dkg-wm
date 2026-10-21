@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "github-evidence-dkg-wm"
+version = "0.1.1"
+description = "Import reviewed public GitHub evidence into local DKG Working Memory"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+dkg-prepare-issue = "prepare_import:main"
+dkg-import-issue = "import_issue:main"
+
+[tool.setuptools]
+py-modules = ["prepare_import", "import_issue"]

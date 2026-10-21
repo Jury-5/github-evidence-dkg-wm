@@ -1,0 +1,58 @@
+{
+  "status": "NOT PUBLISHED; proposed GitHub source release only",
+  "version": "0.1.1",
+  "files": [
+    {
+      "name": "DESIGN.md",
+      "sha256": "323b3ddd34968538b09df3bd55a73bf4f46fbcba6d546f2a60d1706c6fabf6d5"
+    },
+    {
+      "name": "LICENSE",
+      "sha256": "a17000f2a23cfcb25bd838578baaae66dc53ecd23222aa2c120c3e3803d30dec"
+    },
+    {
+      "name": "README.md",
+      "sha256": "726e2d1a1fb907c49e015d06a05c85a4009ab358c115d99e16b7afa325c1f7e7"
+    },
+    {
+      "name": "RECOVERY.md",
+      "sha256": "780cb662e4008a2c27298e2ee4d98aa2f01bf956cb313ca25e0b304b09500bb6"
+    },
+    {
+      "name": "SECURITY.md",
+      "sha256": "c8fba3746f2496aeb4f5185e88079160c45fc631ea704536fe549e0d4c226205"
+    },
+    {
+      "name": "demo-0.1.1.cast",
+      "sha256": "d079ef7b71bf3c7b98fa45197d5aebc3f5e90db372f455abe2c31fad01615beb"
+    },
+    {
+      "name": "import_issue.py",
+      "sha256": "e9f7dc7ee88a8b7627692d0328f83325dacbba3ac160e6fefbbee367709b17ba"
+    },
+    {
+      "name": "installed-cli-validation-0.1.1.json",
+      "sha256": "516337e28e730f8c86ed88d1bbece205d46eefaed1e840dfbbdb6fbcb076f22a"
+    },
+    {
+      "name": "prepare_import.py",
+      "sha256": "02cde61f0a3fdb92d32e964676b5301720e896a705fbdf1a232739b74822b032"
+    },
+    {
+      "name": "pyproject.toml",
+      "sha256": "81b3740fd124688d8bb578cc30279724bde0caba5619fa6d445ac8421ac8bf4a"
+    },
+    {
+      "name": "test_executor_failures.py",
+      "sha256": "dcc1f75db89b2eba50a0083e615ecac031d0b2c4cc02c2662d51a9866156ea76"
+    },
+    {
+      "name": "test_prepare_import.py",
+      "sha256": "1012eca373acfbfc7165b6b8da744c623b74f2072d634f5ab54496d10d1ebe48"
+    },
+    {
+      "name": "validate_local_node.py",
+      "sha256": "82f253aebf368c22fe56a3b1ec03ff28767349bb9cb7a6b1ce28bf7df016af60"
+    }
+  ]
+}
