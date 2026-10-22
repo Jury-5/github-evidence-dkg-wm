@@ -30,4 +30,7 @@ Each run requires a new journal; do not delete/recreate journals to bypass a fai
 
 Thirteen local tests cover input handling and HTTP failure boundaries. Installed wheel0.1.1 was tested outside the source directory against real DKG10.0.23 with embedded storage and mock chain: exact eight-quad read-back passed. See installed-cli-validation-0.1.1.json. demo-0.1.1.cast is an actual asciicast-v2 terminal recording. Neither proves peer replication, mainnet verification, committee acceptance or payment.
 
-See SECURITY.md and DESIGN.md for authority and provenance limitations. No maintainer identity or long-term service promise is assigned by this local publication candidate; those require separate approval before submission. MIT license is proposed for the public release. No package registry release exists yet.
+See SECURITY.md and DESIGN.md for authority and provenance limitations. No maintainer identity or long-term service promise is assigned by this source release; those require separate approval before submission. Released under the MIT license. No package registry release exists yet.
+
+
+Packaging revision 0.1.2 includes test sources and supporting documentation in the source distribution. The importer runtime is unchanged from validated 0.1.1; the recorded real-node validation applies to 0.1.1, not a new 0.1.2 node run.

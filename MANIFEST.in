@@ -1,0 +1,3 @@
+include DESIGN.md SECURITY.md RECOVERY.md
+include test_*.py validate_local_node.py
+include demo-0.1.1.cast installed-cli-validation-0.1.1.json
